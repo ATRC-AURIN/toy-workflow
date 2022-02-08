@@ -33,11 +33,9 @@ https://github.com/AURIN-OFFICE/atrc-workflow-runner
 ### Want to run it yourself?
 
 - Make sure you have Docker installed and running locally
-- Clone each of the toy tool repositories above to your local machine
-- Run the test script command for each one to see how they work – how they handle inputs/outputs, dockerisation etc
-- The test scripts for each will also build the docker images for each one locally - which the workflow runner will need
+- Make sure you have [Node](https://nodejs.org/en/download/) installed
 - Clone the workflow runner code to your local machine
-- Follow the setup instructions in the readme (should be just `npm install` if you have Node)
+- Run the [toy_setup_script.sh](https://github.com/AURIN-OFFICE/atrc-workflow-runner/blob/main/toy_setup_script.sh)
 - Run `npm run workflow`
 - You should see outputs for each operation in the workflow written to a timestamped directory in `./tmp/`
 
