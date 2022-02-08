@@ -36,7 +36,7 @@ https://github.com/AURIN-OFFICE/atrc-workflow-runner
 - Make sure you have [Node](https://nodejs.org/en/download/) installed
 - Clone the workflow runner code to your local machine
 - Run the [toy_setup_script.sh](https://github.com/AURIN-OFFICE/atrc-workflow-runner/blob/main/toy_setup_script.sh)
-- Run `npm run workflow`
+- Run `npm run workflow ./toy_workflow.yaml`
 - You should see outputs for each operation in the workflow written to a timestamped directory in `./tmp/`
 
 ### What functionality is included / not included?
