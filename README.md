@@ -2,7 +2,7 @@
 
 This 'toy' workflow is an exercise to illustrate the way tools can be composed into workflows. It consists of a number of toy tools that perform basic operations on arrays of numbers, and a Workflow Runner that can take a workflow definition file and run the toy tools in a given order, providing it with initial values and passing results through the sequential workflow operations. 
 
-Note: there's no code in this repository – this Readme is just an guide directing you to the other repositories. 
+Note: there's no code in this repository – this Readme is just a guide directing you to the other repositories. 
 
 ### The example workflow:
 
