@@ -6,7 +6,7 @@ Note: there's no code in this repository – this Readme is just a guide direct
 
 ### The example workflow:
 
-![toy workflow diagram](https://user-images.githubusercontent.com/28953011/152715452-1be015dc-90b3-4d82-b8a5-4f092f74e0a9.png)
+![toy workflow - diagram](https://user-images.githubusercontent.com/28953011/152925811-7f2ae87e-5c8a-49c9-be12-8df07b93bf17.png)
 
 ### The toy tools:
 
